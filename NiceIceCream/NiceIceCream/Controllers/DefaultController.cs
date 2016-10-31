@@ -13,5 +13,25 @@ namespace NiceIceCream.Controllers
         {
             return View();
         }
+        [HttpGet]
+        public ActionResult Home()
+        {
+            return View();
+        }
+        [HttpGet]
+        public ActionResult About()
+        {
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Menu()
+        {
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Contact()
+        {
+            return View();
+        }
     }
 }

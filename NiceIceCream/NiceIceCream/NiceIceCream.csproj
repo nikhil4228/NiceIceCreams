@@ -136,6 +136,10 @@
     <Content Include="img\NiceImages\Carosal images\2.jpg" />
     <Content Include="img\NiceImages\Carosal images\3.jpg" />
     <Content Include="img\NiceImages\Carosal images\4.jpg" />
+    <Content Include="img\NiceImages\homeimages\5 x 4_1.jpg" />
+    <Content Include="img\NiceImages\homeimages\6 x 4.jpg" />
+    <Content Include="img\NiceImages\homeimages\6 x 4_1.jpg" />
+    <Content Include="img\NiceImages\homeimages\6 x 4_s1.jpg" />
     <Content Include="img\NiceImages\Nice_Ice Cream_10 X 4.jpg" />
     <Content Include="img\slide-1.jpg" />
     <Content Include="img\slide-2.jpg" />
@@ -175,6 +179,10 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Default\Home.cshtml" />
+    <Content Include="Views\Default\About.cshtml" />
+    <Content Include="Views\Default\Menu.cshtml" />
+    <Content Include="Views\Default\Contact.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
