@@ -125,8 +125,6 @@
     <Content Include="css\business-casual.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="img\bg.jpg" />
-    <Content Include="img\intro-pic.jpg" />
     <Content Include="img\NiceImages\2.jpg" />
     <Content Include="img\NiceImages\5 x 4_1.jpg" />
     <Content Include="img\NiceImages\6 x 4.jpg" />
@@ -141,9 +139,6 @@
     <Content Include="img\NiceImages\homeimages\6 x 4_1.jpg" />
     <Content Include="img\NiceImages\homeimages\6 x 4_s1.jpg" />
     <Content Include="img\NiceImages\Nice_Ice Cream_10 X 4.jpg" />
-    <Content Include="img\slide-1.jpg" />
-    <Content Include="img\slide-2.jpg" />
-    <Content Include="img\slide-3.jpg" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\jquery.js" />
@@ -183,6 +178,7 @@
     <Content Include="Views\Default\About.cshtml" />
     <Content Include="Views\Default\Menu.cshtml" />
     <Content Include="Views\Default\Contact.cshtml" />
+    <Content Include="Views\Default\Events.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

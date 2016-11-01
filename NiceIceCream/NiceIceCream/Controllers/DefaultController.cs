@@ -33,5 +33,10 @@ namespace NiceIceCream.Controllers
         {
             return View();
         }
+        [HttpGet]
+        public ActionResult Events()
+        {
+            return View();
+        }
     }
 }
