@@ -90,3 +90,95 @@ C:\Users\NIKHIL4228\Desktop\Projects\Nice ice creams\Project Code\NiceIceCreams\
 C:\Users\NIKHIL4228\Desktop\Projects\Nice ice creams\Project Code\NiceIceCreams\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.csprojResolveAssemblyReference.cache
 C:\Users\NIKHIL4228\Desktop\Projects\Nice ice creams\Project Code\NiceIceCreams\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.dll
 C:\Users\NIKHIL4228\Desktop\Projects\Nice ice creams\Project Code\NiceIceCreams\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.pdb
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\ApplicationInsights.config
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\csc.exe
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\vbc.exe
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\VBCSCompiler.exe
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\NiceIceCream.dll.config
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\NiceIceCream.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\NiceIceCream.pdb
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.Web.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Helpers.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Mvc.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Razor.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Razor.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.Web.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Razor.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Razor.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Helpers.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\bin\System.Web.Mvc.xml
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.csprojResolveAssemblyReference.cache
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.dll
+C:\Users\rahul\Desktop\nikhil\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.pdb
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\ApplicationInsights.config
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\csc.exe
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\System.Collections.Immutable.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\System.Reflection.Metadata.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\vbc.exe
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\VBCSCompiler.exe
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\roslyn\VBCSCompiler.exe.config
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\NiceIceCream.dll.config
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\NiceIceCream.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\NiceIceCream.pdb
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.Agent.Intercept.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.DependencyCollector.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.Web.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.WindowsServer.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.ApplicationInsights.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.Web.Infrastructure.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Helpers.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Mvc.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Razor.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Deployment.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Razor.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.DependencyCollector.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.Web.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.AI.WindowsServer.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.ApplicationInsights.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Razor.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Deployment.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Webpages.Razor.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Helpers.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\bin\System.Web.Mvc.xml
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.csprojResolveAssemblyReference.cache
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.dll
+D:\QUEST POND\DESIGN PATTERNS\NiceIceCream\NiceIceCream\NiceIceCream\obj\Debug\NiceIceCream.pdb
